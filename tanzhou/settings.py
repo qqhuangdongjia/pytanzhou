@@ -25,7 +25,7 @@ SECRET_KEY = 'tfs$_g^+3w782ks*b6t_n6&01*gfjqn!zs+@l%6$a44_^-opnd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
